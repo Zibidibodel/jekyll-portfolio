@@ -2,7 +2,7 @@
 name: Jeremy Hamilton
 job_title: Javascript Developer
 email: contact@jeremyhamilton.tech
-description: I build great products at Google, currently Google Maps. I also enjoy capturing moments with my camera and discovering new music. Follow me Twitter or drop me a line.
+description: I am a Junior Javascript Developer in Spokane, WA. I spend my free time with my family, out walking, or just buried neck-deep in code.
 avatar: //www.gravatar.com/avatar/1f3ae997d0dca34957489907cf84934d?s=140
 favicon: /favicon.ico
 twitter_handler: zibidibodel
@@ -54,14 +54,14 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "http://jeremyhamilton.tech"
 baseurl: ""
 
 # Includes
 include: ["_pages"]
 
 # Outputting
-permalink: /:categories/:title.html
+permalink: date
 category_dir: categories
 
 # Pagination
